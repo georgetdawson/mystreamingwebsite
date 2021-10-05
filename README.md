@@ -1,2 +1,0 @@
-# mystreamingwebsite
-website for streaming
