@@ -1,10 +1,17 @@
 
   body { 
-      background-image: linear-gradient(black, white);
-
-      background-size: cover;
 
       color: #ddd9d9;
 
       font-family: Verdana;
+  }
+
+  .background {
+    background: linear-gradient(black, white);
+    position: fixed;
+    z-index: -100;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
   }
